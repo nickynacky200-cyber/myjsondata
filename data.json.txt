@@ -1,0 +1,4 @@
+[
+  { "username": "exampleUser", "password": "examplePass" },
+  { "username": "demoUser", "password": "demoPass" }
+]
